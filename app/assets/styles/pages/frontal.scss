@@ -1,0 +1,35 @@
+.list{
+  width: 48%;
+  &__title{
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  &__item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: solid 1px #e1e1e1;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #6C6C6C;
+    margin-top: 5px;
+    .btn{
+      height: 22px;
+      width: 22px;
+      line-height: 22px;
+      margin-left: 10px;
+    }
+  }
+}
+
+.label{
+  width: 48%;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  .btn{
+    width: 48px;
+    margin-left: 10px;
+    background: #008CBA;
+  }
+}
