@@ -60,7 +60,7 @@
     "cross-env": "5.2.0",
     "customize-cra": "^0.2.14",
     "env-cmd": "^8.0.2",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "font-awesome": "^4.7.0",
     "fontfaceobserver": "2.0.13",
     "history": "4.7.2",
